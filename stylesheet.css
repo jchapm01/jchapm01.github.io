@@ -1,0 +1,48 @@
+Kate Wasynczuk
+4:46pm
+Kate Wasynczuk
+jk, this one. add
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+to head of each html doc (assuming "stylesheet.css" is its name) & you're good
+
+body{
+    color: #636363;
+    font-family: sans-serif;
+}
+
+h1{
+	color: #6600cc;
+	text-align: center;
+}
+
+h2{ 
+	color: #b280e6;
+}
+
+h3{ 
+	color: #47008f;
+}
+
+a{
+	display: inline-block;
+	margin: 2em;
+	padding: .5em;
+	background-color: #bf94e9;
+	color: white;
+	text-decoration: none;
+}
+
+a:hover{
+    background-color: #9976ba;
+    text-shadow: 2px 2px #73598c;
+    box-shadow: -1px -1px 1px #636363;
+}
+
+img{
+	margin: auto;
+	max-height: 10em;
+}
+
+ul{
+	list-style-type: square;
+}
