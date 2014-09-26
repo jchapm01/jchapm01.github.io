@@ -2,8 +2,8 @@ Jessie Chapman
 Comp20 Assignment: Portfolio
 9/25/2014
 
-1. Unfortunately I started this assignment late, and wasn't able to get a CSS file up-and-running. Everything else is there - but along with not being able to implement CSS to style my page, my resume is just a bit outdated, but I figured this was okay for purposes of learning how to use HTML5/git.
+1. I think I've done everything correctly - all 3 files, a CSS stylesheet, my page redirects to github, and I have links to my resume and bio pages.
 
-2. Didn't collab with anyone
+2. Kate Wasynczuk helped me a lot on CSS, so any similarities in layout of the stylesheet is due to her walking me through how to make rules for things in my HTML files.
 
-3. Approx hours = 4
+3. Approx hours = 5
