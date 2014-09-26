@@ -32,6 +32,12 @@ a:hover{
     box-shadow: -1px -1px 1px #636363;
 }
 
+a:visited{
+	background-color: #FFA07A;
+    text-shadow: 2px 2px #73598c;
+    box-shadow: -1px -1px 1px #FF7F50;
+}
+
 img{
 	margin: auto;
 	max-height: 10em;
